@@ -1,0 +1,11 @@
+com\mkyong\web\controller\CustomAuthenticationProvider.class
+com\mkyong\web\controller\Log.class
+com\mkyong\web\controller\StartPage.class
+com\mkyong\web\controller\Author.class
+com\mkyong\web\controller\authorPage.class
+com\mkyong\web\controller\bookPage.class
+com\mkyong\web\controller\welcome.class
+com\mkyong\web\controller\Book.class
+com\mkyong\web\controller\User.class
+com\mkyong\web\controller\userPage.class
+com\mkyong\web\controller\jdbcControl.class
